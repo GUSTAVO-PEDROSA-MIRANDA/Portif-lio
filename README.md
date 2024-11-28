@@ -1,2 +1,2 @@
-# Portif-lio
+# Portifólio
 Página web que abrange o meu portifólio.
