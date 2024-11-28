@@ -1,14 +1,14 @@
-# Portfólio de GUSTAVO
+# Portfólio de Gustavo
 
-Portfólio pessoal, onde irei apresentar meus projetos, interesses e inspirações.
+Portfólio pessoal, onde apresento meus projetos, interesses e inspirações.
 
 ## Estrutura
 - **index.html**: Página inicial com introdução e projetos.
-- **sobremim.html**: Informações sobre mim.
+- **about.html**: Informações sobre mim.
 - **styles/main.css**: Estilos do site.
 - **scripts/main.js**: Interatividade com JavaScript.
 
-## Tecnologias Utilizadas
+## Tecnologias
 - HTML5
 - CSS3 (Flexbox)
 - JavaScript (Dom Manipulation)
